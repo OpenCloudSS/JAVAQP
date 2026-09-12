@@ -44,4 +44,4 @@ Cocos 客户端 + Java 游戏服 + Redis + MySQL。
 
 **不免费。** 有实力可谈联合运营。
 
-Telegram：[redguysss](https://t.me/redguysss)
+小飞机：[redguysss](https://t.me/redguysss)
